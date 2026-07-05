@@ -1,0 +1,4 @@
+interface:
+  display_name: "Douyin Transcribe"
+  short_description: "Extract Douyin audio and transcribe it to text."
+  default_prompt: "Use $douyin-transcribe to turn this Douyin video link into a Chinese transcript."
